@@ -78,6 +78,7 @@
     <string name="maximized">ਵੱਧ ਤੋਂ ਵੱਧ</string>
     <string name="portrait">ਪੋਰਟਰੇਟ</string>
     <string name="fullscreen">ਪੂਰਾ ਸਕਰੀਨ</string>
+    <string name="undefined">Undefined</string>
     <string name="remember_launch_mode_title">ਲਾਂਚ ਮੋਡ ਨੂੰ ਯਾਦ ਰੱਖੋ</string>
     <string name="remember_launch_mode_summary">ਹਰ ਐਪ ਲਈ ਵਰਤੇ ਗਏ ਆਖਰੀ ਲਾਂਚ ਮੋਡ ਨੂੰ ਯਾਦ ਰੱਖੋ</string>
     <string name="launch_games_fullscreen_title">ਪੂਰੀ ਸਕ੍ਰੀਨ ਵਿੱਚ ਗੇਮਾਂ ਲਾਂਚ ਕਰੋ</string>
@@ -317,5 +318,7 @@
     <string name="something_wrong">ਕੁਝ ਗਲਤ ਹੋ ਗਿਆ</string>
     <string name="save_log">ਲੌਗ ਸੇਵ ਕਰੋ</string>
     <string name="open_again">ਐਪ ਨੂੰ ਦੁਬਾਰਾ ਖੋਲ੍ਹੋ</string>
+    <string name="forget_launch_modes_title">Forget launch modes</string>
+    <string name="forget_launch_modes_summary">Forget all saved launch modes</string>
 
 </resources>
